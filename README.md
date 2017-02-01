@@ -1,2 +1,2 @@
-# Proposed_GasFired_Plants
-Map of National Scale Fracked Gas Power Plants
+# Proposed Gas-Fired Plants
+Map Proposed, National-Scale Fracked Gas Power Plants
